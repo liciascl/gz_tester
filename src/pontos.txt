@@ -1,0 +1,8 @@
+1 curva - -3.12 0.30
+creeper 50 - -4.64 2.058
+2 curva - -2.88 -0.914
+creeper 150 - -4.10 -2.89
+3 curva - 1.38 -1.25
+4 curva - 1.38 0.80
+
+voltou pro ponto inical 0.2 0.0
